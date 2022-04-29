@@ -1,3 +1,6 @@
 [submodule ".vim/pack/.vim/pack/vendor/start/deep-space"]
 	path = .vim/pack/.vim/pack/vendor/start/deep-space
 	url = https://github.com/tyrannicaltoucan/vim-deep-space
+[submodule ".vim/pack/.vim/pack/vendor/start/nerdtree"]
+	path = .vim/pack/.vim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree
